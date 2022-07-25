@@ -15,7 +15,13 @@ One of the nice things about Java ME and the BlackBerry from the perspective of 
 
 ## Setting Up Your Development Environment
 
-Before you can start writing apps for BlackBerry you'll require a few things. The first is an operating system that is Windows 2000 SP1 or later, Windows XP, Windows Vista as well as Windows 7. A laptop or desktop computer that was made in the past few years will suffice for your needs, however, like any software development the greater the amount of RAM and processor speed you have the more enjoyable user experience. Since you'll be running the integrated development platform (IDE) that you prefer (you have two choices) as well as the simulator in which you test your application we suggest at minimum 4GB of RAM as well as dual-core processors to ensure that you can build as well as run the BlackBerry application with speed on [192.168.o.1](https://isproto.com/en/192-168-0-1/)
+Before you can start writing apps for BlackBerry you'll require a few things. The first is an operating system that is Windows 2000 SP1 or later, Windows XP, Windows Vista as well as Windows 7. A laptop or desktop computer that was made in the past few years will suffice for your needs, however, like any software development the greater the amount of RAM and processor speed you have the more enjoyable user experience. Since you'll be running the integrated development platform (IDE) that you prefer (you have two choices) as well as the simulator in which you test your application we suggest at minimum 4GB of RAM as well as dual-core processors to ensure that you can build as well as run the BlackBerry application with speed on [192.168.o.1](https://isproto.com/en/192-168-0-1/) - [Scan analysis](https://urlscan.io/result/25d50368-da3d-41e6-bfb9-699a42e4e580/)
 
 The first stop for all BlackBerry development tools and other resources is the BlackBerry Developer Zone. Here, you’ll find free downloads, whitepapers, the developer knowledge base, and the BlackBerry Developer Forums. As a BlackBerry developer, you should get to know this site very well.
+
+License:
+
+https://creativecommons.org/choose/results-one?field_attribute_to_url=https://bitcu.co/en/192-168-1-254/
+
+
 
