@@ -19,9 +19,8 @@ Before you can start writing apps for BlackBerry you'll require a few things. Th
 
 The first stop for all BlackBerry development tools and other resources is the BlackBerry Developer Zone. Here, you’ll find free downloads, whitepapers, the developer knowledge base, and the BlackBerry Developer Forums. As a BlackBerry developer, you should get to know this site very well.
 
-License:
+[Creative Commons License](https://creativecommons.org/choose/results-one?field_attribute_to_url=https://bitcu.co/en/192-168-1-254/)
 
-https://creativecommons.org/choose/results-one?field_attribute_to_url=https://bitcu.co/en/192-168-1-254/
 
 
 
